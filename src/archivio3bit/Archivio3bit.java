@@ -3,6 +3,12 @@ package archivio3bit;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * Si occupa dell'interfaccia utente con un menu.
+ * Si può usare println.
+ * @author melissa
+ */
+
 public class Archivio3bit {
 
   public static void main(String[] args) {

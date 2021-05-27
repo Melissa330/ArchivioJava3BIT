@@ -1,0 +1,8 @@
+ATC86,5,546.7,Atomic,164.0,Rossi
+ATC83,1,536.7,Atomic,160.0,Rossi
+ATC58,2,550.0,Atomic,170.0,Rossi
+RSS43,3,600.0,Rossignol,150.5,Bianchi
+RSS54,4,611.0,Rossignol,145.7,Bianchi
+SLM37,3,543.5,Salomon,170.7,Blu
+SLM73,6,545.0,Salomon,165.5,Blu
+SLM48,3,560.5,Salomon,154.5,Blu
